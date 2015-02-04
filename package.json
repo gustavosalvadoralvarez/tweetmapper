@@ -1,0 +1,28 @@
+{
+  "name": "tweetmapper",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gustavosalvadoralvarez/tweetmapper.git"
+  },
+  "author": "GSA",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gustavosalvadoralvarez/tweetmapper/issues"
+  },
+  "homepage": "https://github.com/gustavosalvadoralvarez/tweetmapper",
+  "dependencies": {
+    "ecstatic": "^0.5.8",
+    "event-stream": "^3.2.2",
+    "node-tweet-stream": "^1.6.0",
+    "shoe": "0.0.15",
+    "through": "^2.3.6",
+    "websocket-stream": "^1.3.2",
+    "webworkify": "^1.0.2"
+  }
+}
